@@ -1,4 +1,4 @@
-### 目录树如下  
+﻿### 目录树如下  
 ├── demo 目录为对接的一些程序，能用的  
 ├── AopSdk.php //SDK入口文件   
 ├── config.php //配置文件   
@@ -18,10 +18,7 @@
     └── signin.css   
 
 
-DEMO: [http://pay.i5.gs](http://pay.i5.gs)
-
-对接程序DEMO
-发卡 [http://ka.i5.gs](http://ka.i5.gs)
+DEMO: [http://zyan.ga](http://zyan.ga)
 
 ---
 
